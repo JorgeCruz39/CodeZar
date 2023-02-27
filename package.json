@@ -1,0 +1,19 @@
+{
+  "name": "codezar",
+  "version": "1.0.0",
+  "description": "CodeZar is my repo for pushing the limits to the things I learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeCruz39/CodeZar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeCruz39/CodeZar/issues"
+  },
+  "homepage": "https://github.com/JorgeCruz39/CodeZar#readme"
+}
